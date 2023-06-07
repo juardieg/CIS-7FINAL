@@ -22,6 +22,8 @@
 - For encryption the encrypted text and key are subtracted then modded by 26
 - Decryption = (Encrypted text - user key) % 26
 #### Screenshots
-![My Remote Image](https://imgur.com/CzdNP7l)
 
-![image](https://github.com/juardieg/CIS-7FINAL/assets/108844504/61e841a8-8833-44a9-9706-80a2a3c99da1)
+![image1](https://github.com/juardieg/CIS-7FINAL/assets/108844504/a933a323-13a1-4b8a-b188-9f1e88c5f96d)
+
+
+![image2](https://github.com/juardieg/CIS-7FINAL/assets/108844504/2269be5a-db2e-49f0-ac57-73ece8dc7e10)
