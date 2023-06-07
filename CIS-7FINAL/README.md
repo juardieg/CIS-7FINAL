@@ -19,8 +19,8 @@
 - For encryption the text and key are added and modded by 26 
 - Encryption = (User text + user key) % 26
 #### Decryption
-- For encryption the encrypted text and key are subtracted then modded by 26
-- Decryption = (Encrypted text - user key) % 26
+- For encryption the encrypted text and key are subtracted, added by 26, then modded by 26
+- Decryption = (Encrypted text - user key + 26) % 26
 #### Screenshots
 
 ![image1](https://github.com/juardieg/CIS-7FINAL/assets/108844504/a933a323-13a1-4b8a-b188-9f1e88c5f96d)
